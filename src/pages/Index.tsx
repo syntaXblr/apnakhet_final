@@ -93,7 +93,7 @@ const Index = () => {
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
             <div className="flex items-center gap-2">
               <Satellite size={28} />
-              <h1 className="text-2xl font-bold">Apna Khet</h1>
+              <h1 className="text-2xl font-bold">ApnaKhet</h1>
             </div>
             <p className="text-sm sm:text-base opacity-90">
               AI-powered agricultural insights for smallholder farmers
@@ -219,7 +219,7 @@ const Index = () => {
 
       <footer className="bg-farm-green-dark/10 py-4 mt-8">
         <div className="container mx-auto px-4 text-center text-sm text-muted-foreground">
-          <p>Apna Khet - AI-powered agricultural insights for smallholder farmers in India</p>
+          <p>ApnaKhet - AI-powered agricultural insights for smallholder farmers in India</p>
           <p className="mt-1">Made by syntaX</p>
         </div>
       </footer>
